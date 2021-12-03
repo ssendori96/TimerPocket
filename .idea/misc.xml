@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Hyunkeun Jo/AndroidStudioProjects/TimerPocket/app/src/main/res/layout/activity_add_timer.xml" value="0.25364583333333335" />
-        <entry key="..\:/Users/Hyunkeun Jo/AndroidStudioProjects/TimerPocket/app/src/main/res/layout/activity_main.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Hyunkeun Jo/AndroidStudioProjects/TimerPocket/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Hyunkeun Jo/AndroidStudioProjects/TimerPocket/app/src/main/res/layout/activity_timer.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Hyunkeun Jo/AndroidStudioProjects/TimerPocket/app/src/main/res/layout/bookmark_layout.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/Hyunkeun Jo/AndroidStudioProjects/TimerPocket/app/src/main/res/layout/layout_list.xml" value="0.25364583333333335" />
       </map>
     </option>

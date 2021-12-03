@@ -5,12 +5,14 @@ public class ListData {
     int hour;
     int minute;
     int second;
+    int bookmark;
 
-    public ListData(String title, int hour, int minute, int second) {
+    public ListData(String title, int hour, int minute, int second, int bookmark) {
         this.title = title;
         this.hour = hour;
         this.minute = minute;
         this.second = second;
+        this.bookmark = bookmark;
     }
 
     public String getTitle() {
@@ -28,4 +30,6 @@ public class ListData {
     public int getSecond() {
         return second;
     }
+
+    public int getBookmark() {return bookmark;}
 }
